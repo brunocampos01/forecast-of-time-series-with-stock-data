@@ -298,36 +298,38 @@ parei aqui: Multi-task Recurrent Neural Networks and Higher-order Markov Random 
 30 artigos
 
 ---
+financial Time Series 2020
 
-- **Artigo**: []()
- - **Proposta**: 
+- **Artigo**: [Interval Forecasting of Financial Time Series by Accelerated Particle Swarm-Optimized Multi-Output Machine Learning System](https://ieeexplore.ieee.org/document/8955860)
+ - **Proposta**: The proposed system has a graphical user interface that is developed in a computing environment and functions as a stand-alone application.
+ - **Fonte de dados**: forex
+ - **Técnicas**:  Support Vector Regression, Accelerated Particle Swarm Optimization
+ - **Publicado em**: 2020
+
+---
+
+- **Artigo**: [Generalized entropy plane based on large deviations theory for financial time series](https://www.sciencedirect.com/science/article/abs/pii/S0096300319307118?via%3Dihub)
+ - **Proposta**: combinacao de características desses dois métodos populares e propomos um modelo de plano de entropia generalizado com base na teoria dos grandes desvios
  - **Fonte de dados**: 
  - **Técnicas**:  
  - **Publicado em**: 
 
 ---
 
-- **Artigo**: []()
- - **Proposta**: 
+- **Artigo**: [Developing a deep learning framework with two-stage feature selection for multivariate financial time series forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0957417420300634?via%3Dihub)
+ - **Proposta**: o modelo de correção de erros é usado para corrigir as previsões e melhorar ainda mais a precisão
  - **Fonte de dados**: 
  - **Técnicas**:  
- - **Publicado em**: 
+ - **Publicado em**: 2020
 
 ---
 
-- **Artigo**: []()
+- **Artigo**: [Forecasting Corporate Financial Time Series using
+Multi-phase Attention Recurrent Neural Networks](http://ceur-ws.org/Vol-2578/DARLIAP12.pdf)
  - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
+ - **Fonte de dados**: Japan Index
+ - **Técnicas**:  LSTM
+ - **Publicado em**: 2020
 
 ---
 
