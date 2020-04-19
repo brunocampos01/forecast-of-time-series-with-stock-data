@@ -23,7 +23,6 @@
   - **Novas proposta**: replicar um artigo que fala sobre LSTM, utilizando dados da B3 ou FOREX.
   - **Novas proposta**:Junção de LSTM com deep reinforcement learning
   - **Novas proposta**:Mostrar um histórico de técnicas já utilizadas, por exemplo, primeiro as predições eram feitas com ARIMA, depois com SVM, em seguida com redes neurais recorrentes.
-  - **Novas proposta**:Criar e implementar uma arquitetura de processamento de dados financeiros em streaming. Contudo, é uma grande mudança de foco.
 
 
 ---
@@ -344,26 +343,31 @@ Multi-phase Attention Recurrent Neural Networks](http://ceur-ws.org/Vol-2578/DAR
 ---
 
 - **Artigo**: [Deep Reinforcement Learning for Trading](https://arxiv.org/pdf/1911.10107.pdf)
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
+ - **Proposta**: We compare our algorithms against classical time series
+momentum strategies, and show that our method outperforms such baseline models,
+delivering positive profits despite heavy transaction costs.
+ - **Fonte de dados**: FOREX
+ - **Técnicas**:   Deep Q-learning Networks (DQN), Policy Gradients
+(PG) and Advantage Actor-Critic (A2C)
+ - **Publicado em**: 2019
 
 ---
 
 - **Artigo**: [Financial Trading as a Game:
 A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787.pdf)
  - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
+ - **Fonte de dados**: FOREX
+ - **Técnicas**:  Markov Decision Process
+ - **Publicado em**: 2018
 
 ---
 
 - **Artigo**: [Algo-Trading Strategy for Intraweek
 Foreign Exchange Speculation Based on Random
 Forest and Probit Regression](http://downloads.hindawi.com/journals/acisc/2019/8342461.pdf)
- - **Proposta**: 
+ - **Proposta**: We develop an action augmentation technique to mitigate the
+need for random exploration by providing extra feedback signals for all actions to the
+agent.
  - **Fonte de dados**: Forex
  - **Técnicas**:  Probit, Random Forest
  - **Publicado em**: 2019
@@ -378,15 +382,4 @@ Forest and Probit Regression](http://downloads.hindawi.com/journals/acisc/2019/8
 
 ---
 
-### financial data processing
-
-- **Artigo**: [Managing the Complexity of Processing Financial Data at Scale - an Experience Report
-?](https://arxiv.org/pdf/1908.03206.pdf)
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-37 artigos
+36 artigos
