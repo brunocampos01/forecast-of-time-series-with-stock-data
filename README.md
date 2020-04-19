@@ -20,9 +20,9 @@
     com modelos paramétricos:
     - ARIMA
   - **Novas proposta**: comparar ARIMA X LSTM X SVM
-  - Junção de LSTM com deep reinfornment learning
+  - Junção de LSTM com deep reinforcement learning
   - Mostrar um histórico de técnicas já utilizadas, por exemplo, primeiro as predições eram feitas com ARIMA, depois com SVM, em seguida com redes neurais recorrentes.
-  - Criar e implementar uma arquitetura de processamento de dados financeiros em steaming. Contudo, é uma grande mudança de foco.
+  - Criar e implementar uma arquitetura de processamento de dados financeiros em streaming. Contudo, é uma grande mudança de foco.
 
 
 ---
