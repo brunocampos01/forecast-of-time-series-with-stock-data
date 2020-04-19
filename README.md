@@ -265,11 +265,11 @@ parei aqui: Multi-task Recurrent Neural Networks and Higher-order Markov Random 
 
 
 
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
+- **Artigo**: [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction: Multi-task RNN and Higer-order MRFs for Stock Price Classification](https://dl.acm.org/doi/10.1145/3292500.3330983)
+ - **Proposta**: multi-task recurrent neural network (RNN) with high-order Markov random fields (MRFs) to predict stock price movement direction
+ - **Fonte de dados**: Chinese stock market indexes 
+ - **Técnicas**:  SVM, recurrent neural network
+ - **Publicado em**: 2019
 
 ---
 
