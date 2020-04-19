@@ -1,20 +1,34 @@
 ## Trabalho de Conclusão de Curso
 
-- Aprendizado por transferencia não encontrei nenhum artigo
-- Aprendizado por reforço tb não encontrei
+#### Termos Pesquisados
+- search: `machine learning stock market`
+- search: `machine learning time series`
+- search: `financial time series`
+- search: `financial data processing`
 
 
-### search: `machine learning time series`
-- **Artigo**: [Interval Forecasting of Financial Time Series by
-Accelerated Particle Swarm-Optimized
-Multi-Output Machine Learning System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8955860)
- - **Proposta**: metaheuristic optimization for interval-valued time series forecasting 
- - **Fonte de dados**: FOREX
- - **Técnicas**: support vector regression 
- - **Publicado em**: 2020
+#### Notas
+- Aprendizado por transferência não encontrei nenhum artigo.
+- Aprendizado por reforço encontrei poucos resultados.
+- A maioria usa LSTM
+- Propostas
+  - original: comparar modelos de machine learning mais clássicos:
+    - regressão linear
+    - árvore de decisão
+    - SVM
+    - bayes
+    com modelos paramétricos:
+    - ARIMA
+  - **Novas proposta**: comparar ARIMA X LSTM X SVM
+  - Junção de LSTM com deep reinfornment learning
+  - Mostrar um histórico de técnicas já utilizadas, por exemplo, primeiro as predições eram feitas com ARIMA, depois com SVM, em seguida com redes neurais recorrentes.
+  - Criar e implementar uma arquitetura de processamento de dados financeiros em steaming. Contudo, é uma grande mudança de foco.
 
 
 ---
+
+## Papers
+
 **Gostei**
 
 - **Artigo**: [Financial time series prediction using distributed machine
@@ -68,7 +82,7 @@ rever
 time series](https://link.springer.com/content/pdf/10.1007/s10489-018-1282-3.pdf)
  - **Proposta**: select the Sample Entropy and Hurst Exponent to characterize the behavior of stock time series
  - **Fonte de dados**: Nasdaq
- - **Técnicas**:  long-term memory, Extreme learning machine ·
+ - **Técnicas**:  LSTM, Extreme learning machine ·
  - **Publicado em**: 2019
 
 
@@ -213,14 +227,6 @@ gostei
 
 ---
 
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
 gostei
 
 - **Artigo**: [An integrated TOPSIS crow search based classifier ensemble: In application to stock index price movement prediction](https://www.sciencedirect.com/science/article/pii/S1568494619305654?via%3Dihub)
@@ -258,12 +264,6 @@ gostei
  - **Publicado em**: 2019
 
 ---
-https://dblp1.uni-trier.de/search?q=stock%20price%20prediction
-
-parei aqui: Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction: Multi-task RNN and Higer-order MRFs for Stock Price Classification. KDD 2019: 1141-1151
-
-
-
 
 - **Artigo**: [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction: Multi-task RNN and Higer-order MRFs for Stock Price Classification](https://dl.acm.org/doi/10.1145/3292500.3330983)
  - **Proposta**: multi-task recurrent neural network (RNN) with high-order Markov random fields (MRFs) to predict stock price movement direction
@@ -273,32 +273,41 @@ parei aqui: Multi-task Recurrent Neural Networks and Higher-order Markov Random 
 
 ---
 
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
+interessante mas não eh o foco
+
+- **Artigo**: [A Robust Predictive Model for Stock Price Prediction Using Deep Learning and Natural Language Processing](https://arxiv.org/abs/1912.07700)
+ - **Proposta**: se a number of classification techniques, while for predicting the actual closing price of the stock. 
+ We further augment the predictive model by integrating a sentiment analysis module on twitter data to correlate the public sentiment of stock prices with the market sentiment.
+ - **Fonte de dados**: Stock Exchange of India
+ - **Técnicas**: LSTM, NLP
+ - **Publicado em**: 2019
 
 ---
 
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
+Muito top !
+relacionar empresas 
+ posso fazer algo como, quanto cada empresa afeta o índice bovespa (sendo naive ou pegando um top 10)
+uma discussão muito comum no grupos de trade é o quanto o deolar afeta o índice bovespa.
+
+
+- **Artigo**: [Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction](https://dl.acm.org/doi/10.1145/3269206.3269269)
+ - **Proposta**: We first construct a graph including all involved corporations based on investment facts from real market and learn a distributed representation for each corporation via node embedding methods applied on the graph.
+ - **Fonte de dados**: China
+ - **Técnicas**:  graph convolutional network, LSTM
+ - **Publicado em**: 2018
 
 ---
 
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
-30 artigos
+- **Artigo**: [Stock Price Prediction Using Attention-based Multi-Input
+LSTM](http://proceedings.mlr.press/v95/li18c/li18c.pdf)
+ - **Proposta**: propose a novel multi-input LSTM model which is capable of extracting valuable information from low-correlated factors and discarding their harmful noise
+ - **Fonte de dados**: China
+ - **Técnicas**:  LSTM
+ - **Publicado em**: 2018
 
 ---
-financial Time Series 2020
+
+## financial Time Series 2020
 
 - **Artigo**: [Interval Forecasting of Financial Time Series by Accelerated Particle Swarm-Optimized Multi-Output Machine Learning System](https://ieeexplore.ieee.org/document/8955860)
  - **Proposta**: The proposed system has a graphical user interface that is developed in a computing environment and functions as a stand-alone application.
@@ -333,7 +342,7 @@ Multi-phase Attention Recurrent Neural Networks](http://ceur-ws.org/Vol-2578/DAR
 
 ---
 
-- **Artigo**: []()
+- **Artigo**: [Deep Reinforcement Learning for Trading](https://arxiv.org/pdf/1911.10107.pdf)
  - **Proposta**: 
  - **Fonte de dados**: 
  - **Técnicas**:  
@@ -341,7 +350,8 @@ Multi-phase Attention Recurrent Neural Networks](http://ceur-ws.org/Vol-2578/DAR
 
 ---
 
-- **Artigo**: []()
+- **Artigo**: [Financial Trading as a Game:
+A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787.pdf)
  - **Proposta**: 
  - **Fonte de dados**: 
  - **Técnicas**:  
@@ -349,7 +359,28 @@ Multi-phase Attention Recurrent Neural Networks](http://ceur-ws.org/Vol-2578/DAR
 
 ---
 
-- **Artigo**: []()
+- **Artigo**: [Algo-Trading Strategy for Intraweek
+Foreign Exchange Speculation Based on Random
+Forest and Probit Regression](http://downloads.hindawi.com/journals/acisc/2019/8342461.pdf)
+ - **Proposta**: 
+ - **Fonte de dados**: Forex
+ - **Técnicas**:  Probit, Random Forest
+ - **Publicado em**: 2019
+
+---
+
+- **Artigo**: [A study on leading machine learning techniques for high order fuzzy timeseries forecasting](https://reader.elsevier.com/reader/sd/pii/S095219761930226X?token=261127E270494648E8F686634CAABE1C3F4B368A6F4C17ACFC73D98F524C6906DD78137BF9AE50D5A2341791DF2D81FD)
+ - **Proposta**: comparative performance analysis.
+ - **Fonte de dados**: sun Spot, Lynx, Mumps
+ - **Técnicas**:  STM, DBN and SVM
+ - **Publicado em**: 2020
+
+---
+
+### financial data processing
+
+- **Artigo**: [Managing the Complexity of Processing Financial Data at Scale - an Experience Report
+?](https://arxiv.org/pdf/1908.03206.pdf)
  - **Proposta**: 
  - **Fonte de dados**: 
  - **Técnicas**:  
@@ -357,110 +388,4 @@ Multi-phase Attention Recurrent Neural Networks](http://ceur-ws.org/Vol-2578/DAR
 
 ---
 
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
-- **Artigo**: []()
- - **Proposta**: 
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
-50 artigos
-
-### search: `stock market machine learning`
-
-### search: `financial Time Series`
+37 artigos
