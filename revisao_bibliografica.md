@@ -380,6 +380,23 @@ agent.
  - **Técnicas**:  STM, DBN and SVM
  - **Publicado em**: 2020
 
+
+- **Artigo**: [Enhancing Stock Price Trend Prediction via a Time-Sensitive Data
+Augmentation Method](http://downloads.hindawi.com/journals/complexity/2020/6737951.pdf)
+ - **Proposta**: fazer um data augmentation nos dados financeiros
+ - **Fonte de dados**: 
+ - **Técnicas**:  LSTM
+ - **Publicado em**: 2020
+
+
 ---
 
-36 artigos
+### Financeiro
+
+- **Artigo**: [Are stock markets really efficient? Evidence of the adaptivemarket hypothesis](https://reader.elsevier.com/reader/sd/pii/S1057521916301053?token=BD9CD81F54E719F8BBC3E564DC6F464414FD3F8B382F31AF8B9E6911E9F68FC51D1805CE2AA708BB76D88A67A1D0515E)
+ - **Proposta**: testar a Hipótese adaptativa do mercado
+ - **Publicado em**: 2016
+
+
+
+38 artigos
