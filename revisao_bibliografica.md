@@ -94,16 +94,7 @@ algorithms](https://link.springer.com/content/pdf/10.1007/s00500-019-04006-2.pdf
  - **Fonte de dados**: Nasdaq
  - **Técnicas**:  LSTM
  - **Publicado em**: 2019
-
-
----
-
-- **Artigo**: [Adaptive Machine Learning-Based Stock Prediction Using Financial Time Series Technical Indicators](https://link.springer.com/chapter/10.1007%2F978-3-030-33617-2_21)
- - **Proposta**: pago
- - **Fonte de dados**: pago
- - **Técnicas**:  pago
- - **Publicado em**: 2019
-- https://github.com/ahmedengu/feature_importance
+ 
 
 ---
 
@@ -149,14 +140,14 @@ simple data relationship with simple models
  - **Publicado em**: 2019
 
 
----
+<!-- ---
 
 interessante mas não é o foco do tcc
 - **Artigo**: [It Is an Equal Failing to Trust Everybody and to Trust Nobody: Stock Price Prediction Using Trust Filters and Enhanced User Sentiment on Twitter](https://dl.acm.org/doi/10.1145/3338855)
  - **Proposta**: User Sentiment on Twitter
  - **Fonte de dados**: Nasdaq
  - **Técnicas**: NLP
- - **Publicado em**: 2019
+ - **Publicado em**: 2019 -->
 
 ---
 
@@ -273,16 +264,14 @@ gostei
 
 ---
 
-interessante mas não eh o foco
+<!-- interessante mas não eh o foco
 
 - **Artigo**: [A Robust Predictive Model for Stock Price Prediction Using Deep Learning and Natural Language Processing](https://arxiv.org/abs/1912.07700)
  - **Proposta**: se a number of classification techniques, while for predicting the actual closing price of the stock. 
  We further augment the predictive model by integrating a sentiment analysis module on twitter data to correlate the public sentiment of stock prices with the market sentiment.
  - **Fonte de dados**: Stock Exchange of India
  - **Técnicas**: LSTM, NLP
- - **Publicado em**: 2019
-
----
+ - **Publicado em**: 2019 -->
 
 Muito top !
 relacionar empresas 
@@ -342,17 +331,6 @@ Multi-phase Attention Recurrent Neural Networks](http://ceur-ws.org/Vol-2578/DAR
 
 ---
 
-- **Artigo**: [Deep Reinforcement Learning for Trading](https://arxiv.org/pdf/1911.10107.pdf)
- - **Proposta**: We compare our algorithms against classical time series
-momentum strategies, and show that our method outperforms such baseline models,
-delivering positive profits despite heavy transaction costs.
- - **Fonte de dados**: FOREX
- - **Técnicas**:   Deep Q-learning Networks (DQN), Policy Gradients
-(PG) and Advantage Actor-Critic (A2C)
- - **Publicado em**: 2019
-
----
-
 - **Artigo**: [Financial Trading as a Game:
 A Deep Reinforcement Learning Approach](https://arxiv.org/pdf/1807.02787.pdf)
  - **Proposta**: 
@@ -389,6 +367,41 @@ Augmentation Method](http://downloads.hindawi.com/journals/complexity/2020/67379
  - **Publicado em**: 2020
 
 
+- **Artigo**: [A Multivariate Comparative Analysis between
+Traditional Econometric, Contemporary Machine
+Learning & Deep Learning Techniques](https://arxiv.org/pdf/2002.10247.pdf)
+ - **Proposta**: Uma Análise Comparativa Multivariada entre
+técnias Econométrica Tradicionais, Técnicas de Aprendizagem de máquina e Aprendizagem Profunda
+ - **Fonte de dados**: 
+ - **Técnicas**:  LSTM
+ - **Publicado em**: 2020
+
+
+##### gostei
+- **Artigo**: [Forecasting Foreign Exchange Rate: A Multivariate Comparative Analysis between Traditional Econometric, Contemporary Machine Learning & Deep Learning Techniques
+](https://arxiv.org/abs/2002.10247)
+ - **Proposta**: Faz um comparativo entre Traditional Econometric, Contemporary Machine Learning & Deep Learning Techniques (muito parecido com o que quero !)
+ - **Fonte de dados**: 
+ - **Técnicas**:  ARIMA, VAR, LSTM
+ - **Publicado em**: 2020
+
+
+- **Artigo**: [A Comparative Analysis of Forecasting Financial
+Time Series Using ARIMA, LSTM, and BiLSTM](https://arxiv.org/pdf/1911.09512.pdf)
+ - **Proposta**: Faz um comparativo entre ARIMA e LSTM (muito parecido com o que quero !)
+ - **Fonte de dados**: 
+ - **Técnicas**:  ARIMA, LSTM
+ - **Publicado em**: 2019
+
+
+ - **Artigo**: [Financial Forecasting Using Support Vector Machines
+](https://link.springer.com/article/10.1007/s005210170010)
+ - **Proposta**: Analysis of the experimental results demonstrates that it is advantageous to apply SVMs to forecast the financial time series.
+ - **Fonte de dados**: S&P 500  
+ - **Técnicas**:  SVM
+ - **Publicado em**: 2001
+
+
 ---
 
 ### Financeiro
@@ -396,6 +409,8 @@ Augmentation Method](http://downloads.hindawi.com/journals/complexity/2020/67379
 - **Artigo**: [Are stock markets really efficient? Evidence of the adaptivemarket hypothesis](https://reader.elsevier.com/reader/sd/pii/S1057521916301053?token=BD9CD81F54E719F8BBC3E564DC6F464414FD3F8B382F31AF8B9E6911E9F68FC51D1805CE2AA708BB76D88A67A1D0515E)
  - **Proposta**: testar a Hipótese adaptativa do mercado
  - **Publicado em**: 2016
+
+
 
 
 
