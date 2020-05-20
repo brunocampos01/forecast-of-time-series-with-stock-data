@@ -29,8 +29,8 @@
 
 ## Papers
 
-**Gostei**
-
+**Removido**
+- não é  tema
 - **Artigo**: [Financial time series prediction using distributed machine
 learning techniques](https://link.springer.com/content/pdf/10.1007/s00521-017-3283-2.pdf)
  - **Proposta**: várias técnicas 
@@ -40,8 +40,8 @@ learning techniques](https://link.springer.com/content/pdf/10.1007/s00521-017-32
 
 ----
 
-**Gostei**
-
+**Removido**
+- não é  tema
 - **Artigo**: [Sensitive time series prediction using extreme learning machine](https://link.springer.com/content/pdf/10.1007/s13042-019-00924-7.pdf)
  - **Proposta**: multi-granularity, fractal theory, chaos sequence
  - **Fonte de dados**: 
@@ -49,7 +49,7 @@ learning techniques](https://link.springer.com/content/pdf/10.1007/s00521-017-32
  - **Publicado em**: 2019
 
 ---
-
+**Removido**
 - **Artigo**: [An intelligent hybridization of ARIMA with machine learning models for time series forecasting](https://www.sciencedirect.com/science/article/pii/S0950705119301327?via%3Dihub)
  - **Proposta**: hybrid systems combine linear and nonlinear techniques 
  - **Fonte de dados**: 
@@ -227,12 +227,25 @@ gostei
  - **Publicado em**: 
 
 ---
-gostei
+
+- top 10
 - **Artigo**: [Predicting stock and stock price index movement using TrendDeterministic Data Preparation and machine learning techni](https://reader.elsevier.com/reader/sd/pii/S0957417414004473?token=20246F6F60892931F233CEA186C48087CD48B10024E268A29D7C3A168F3531DAB22CF1CF1B2D4869C396A25869FFC8D2)
  - **Proposta**: 
  - **Fonte de dados**:  S&P
  - **Técnicas**:  SVM,  random forest and naive-Baye, Genetic Algorithm
  - **Publicado em**: 
+
+
+
+
+---
+
+- auxiliar
+- **Artigo**: [Stock market movement forecast: A Systematic review](https://reader.elsevier.com/reader/sd/pii/S0957417420302888?token=B48DEDE0E7BD60AA6D0E2AACB09A0D8BF75B41479A46883BD2DEC8135D3C76B9327A50ACEFE97B3638C5FBBD9F134D53)
+ - **Proposta**: review de papers sobre predicao de series teporais no mercado financeiro
+ - **Fonte de dados**:  S&P
+ - **Técnicas**:  
+
 
 ---
 gostei
