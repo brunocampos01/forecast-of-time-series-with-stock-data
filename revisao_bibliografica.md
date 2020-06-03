@@ -25,12 +25,25 @@
   - **Novas proposta**:Mostrar um histórico de técnicas já utilizadas, por exemplo, primeiro as predições eram feitas com ARIMA, depois com SVM, em seguida com redes neurais recorrentes.
 
 
+## propôs um guia de procedimentos
+
+Tem servido como referência até os dias atuais, constituído de 8 etapas que deveriam ser observadas em modelos de previsão, com sugestões para a seleção das variáveis, coleta
+de dados, pré-processamento dos dados, treinamento e validação, topologia, critérios de
+avaliação de desempenho, parâmetros do algoritmo backpropagation e implementação.
+
+- **Artigo"": [Designing a neural network for forecasting financial and economic time series](https://www.sciencedirect.com/science/article/pii/0925231295000399)
+
+Kaastra
+
+## Principal artigo sobre ARIMA
+- **Artigo**: [Time series analysis: forecasting and control](https://scholar.google.com/scholar_lookup?title=Time%20series%20analysis%3A%20Forecasting%20and%20control&publication_year=1976&author=P.%20Box&author=G.M.%20Jenkins)
+
+
 ---
 
 ## Papers
 
 **Removido**
-- não é  tema
 - **Artigo**: [Financial time series prediction using distributed machine
 learning techniques](https://link.springer.com/content/pdf/10.1007/s00521-017-3283-2.pdf)
  - **Proposta**: várias técnicas 
@@ -41,7 +54,6 @@ learning techniques](https://link.springer.com/content/pdf/10.1007/s00521-017-32
 ----
 
 **Removido**
-- não é  tema
 - **Artigo**: [Sensitive time series prediction using extreme learning machine](https://link.springer.com/content/pdf/10.1007/s13042-019-00924-7.pdf)
  - **Proposta**: multi-granularity, fractal theory, chaos sequence
  - **Fonte de dados**: 
@@ -59,15 +71,8 @@ learning techniques](https://link.springer.com/content/pdf/10.1007/s00521-017-32
 
 ---
 
-- **Artigo**: [Correctingandcombiningtimeseriesforecasters ](https://www.sciencedirect.com/science/article/pii/S0893608013002517)
- - **Proposta**: Method for correcting and combining forecasting models
- - **Fonte de dados**: Nasdaq
- - **Técnicas**: Neural Network, ARIMA
- - **Publicado em**: 2013
-
----
-
-- **Artigo**: [Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model]()
+- citei este autor
+- **Artigo**: [Evaluation of statistical and machine learning models for time series prediction: Identifying the state-of-the-art and the best conditions for the use of each model](https://dblp1.uni-trier.de/search?q=Evaluation%20of%20statistical%20and%20machine%20learning%20models%20for%20time%20series%20prediction%3A%20Identifying%20the%20state-of-the-art%20and%20the%20best%20conditions%20for%20the%20use%20of%20each%20model)
  - **Proposta**: Evaluation of statistical and machine learning models for time series prediction
  - **Fonte de dados**: 
  - **Técnicas**: 11 técnicas diferentes
@@ -85,25 +90,6 @@ time series](https://link.springer.com/content/pdf/10.1007/s10489-018-1282-3.pdf
  - **Técnicas**:  LSTM, Extreme learning machine ·
  - **Publicado em**: 2019
 
-
----
-
-- **Artigo**: [Jump detection in financial time series using machine learning
-algorithms](https://link.springer.com/content/pdf/10.1007/s00500-019-04006-2.pdf)
- - **Proposta**: Jump detection in financial time series
- - **Fonte de dados**: Nasdaq
- - **Técnicas**:  LSTM
- - **Publicado em**: 2019
- 
-
----
-
-- **Artigo**: [Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters
-](https://arxiv.org/abs/1909.13316)
- - **Proposta**: comparasion Machine Learning vs Statistical Methods
- - **Fonte de dados**: 
- - **Técnicas**:  várias técnicas
- - **Publicado em**: 2019
 
 ---
 
@@ -218,15 +204,6 @@ gostei
 
 ---
 
-gostei
-
-- **Artigo**: [An integrated TOPSIS crow search based classifier ensemble: In application to stock index price movement prediction](https://www.sciencedirect.com/science/article/pii/S1568494619305654?via%3Dihub)
- - **Proposta**: crow search algorithm que seleciona o melhor algoritmo de machine learning para aplicar
- - **Fonte de dados**: S&P
- - **Técnicas**:  SVM, linear regression, naive bayes, knn, decision tree
- - **Publicado em**: 
-
----
 
 - top 10
 - **Artigo**: [Predicting stock and stock price index movement using TrendDeterministic Data Preparation and machine learning techni](https://reader.elsevier.com/reader/sd/pii/S0957417414004473?token=20246F6F60892931F233CEA186C48087CD48B10024E268A29D7C3A168F3531DAB22CF1CF1B2D4869C396A25869FFC8D2)
@@ -239,14 +216,18 @@ gostei
 
 
 ---
+---
+
+### Revisão Bibliográfica
 
 - auxiliar
 - **Artigo**: [Stock market movement forecast: A Systematic review](https://reader.elsevier.com/reader/sd/pii/S0957417420302888?token=B48DEDE0E7BD60AA6D0E2AACB09A0D8BF75B41479A46883BD2DEC8135D3C76B9327A50ACEFE97B3638C5FBBD9F134D53)
- - **Proposta**: review de papers sobre predicao de series teporais no mercado financeiro
- - **Fonte de dados**:  S&P
- - **Técnicas**:  
 
+- **Artigo**: [Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://www.sciencedirect.com/science/article/pii/S1568494620301216)
 
+- **Artigo**: [Computational Intelligence and Financial Markets: A Survey and Future Directions.](https://reader.elsevier.com/reader/sd/pii/S095741741630029X?token=F4C72B66D1DDB63E056AE2C30C2B07B4252E962AC748F7C3DB473C64C618263EC9120972382E96F51A3FB4B79FE5F366)
+
+---
 ---
 gostei
 
@@ -319,14 +300,6 @@ LSTM](http://proceedings.mlr.press/v95/li18c/li18c.pdf)
 
 ---
 
-- **Artigo**: [Generalized entropy plane based on large deviations theory for financial time series](https://www.sciencedirect.com/science/article/abs/pii/S0096300319307118?via%3Dihub)
- - **Proposta**: combinacao de características desses dois métodos populares e propomos um modelo de plano de entropia generalizado com base na teoria dos grandes desvios
- - **Fonte de dados**: 
- - **Técnicas**:  
- - **Publicado em**: 
-
----
-
 - **Artigo**: [Developing a deep learning framework with two-stage feature selection for multivariate financial time series forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0957417420300634?via%3Dihub)
  - **Proposta**: o modelo de correção de erros é usado para corrigir as previsões e melhorar ainda mais a precisão
  - **Fonte de dados**: 
@@ -365,13 +338,6 @@ agent.
 
 ---
 
-- **Artigo**: [A study on leading machine learning techniques for high order fuzzy timeseries forecasting](https://reader.elsevier.com/reader/sd/pii/S095219761930226X?token=261127E270494648E8F686634CAABE1C3F4B368A6F4C17ACFC73D98F524C6906DD78137BF9AE50D5A2341791DF2D81FD)
- - **Proposta**: comparative performance analysis.
- - **Fonte de dados**: sun Spot, Lynx, Mumps
- - **Técnicas**:  STM, DBN and SVM
- - **Publicado em**: 2020
-
-
 - **Artigo**: [Enhancing Stock Price Trend Prediction via a Time-Sensitive Data
 Augmentation Method](http://downloads.hindawi.com/journals/complexity/2020/6737951.pdf)
  - **Proposta**: fazer um data augmentation nos dados financeiros
@@ -380,15 +346,86 @@ Augmentation Method](http://downloads.hindawi.com/journals/complexity/2020/67379
  - **Publicado em**: 2020
 
 
-- **Artigo**: [A Multivariate Comparative Analysis between
-Traditional Econometric, Contemporary Machine
-Learning & Deep Learning Techniques](https://arxiv.org/pdf/2002.10247.pdf)
- - **Proposta**: Uma Análise Comparativa Multivariada entre
-técnias Econométrica Tradicionais, Técnicas de Aprendizagem de máquina e Aprendizagem Profunda
- - **Fonte de dados**: 
- - **Técnicas**:  LSTM
- - **Publicado em**: 2020
+---
 
+- **Artigo**: [An improved deep learning model for predicting stock market price time series](https://www.sciencedirect.com/science/article/pii/S1051200420300865)
+ - **Proposta**: eEste artigo propõe um modelo que utiliza dados reais de negociação baseados em redes neurais profundas para prever a tendência dos preços das ações
+ - **Técnicas**:  CNN
+
+---
+
+- **Artigo**: [An improved deep learning model for predicting stock market price time series](https://www.sciencedirect.com/science/article/pii/S1051200420300865)
+ - **Proposta**: excelente feature engineering
+ - **Técnicas**:  LSTM
+
+
+---
+---
+
+
+
+
+### Hybrid Models
+
+**Removido**
+- **Artigo**: [Jump detection in financial time series using machine learning
+algorithms](https://link.springer.com/content/pdf/10.1007/s00500-019-04006-2.pdf)
+ - **Proposta**: Jump detection in financial time series
+ - **Fonte de dados**: Nasdaq
+ - **Técnicas**:  LSTM
+ - **Publicado em**: 2019
+
+---
+
+**Removido**
+- **Artigo**: [Correcting and combining time series forecasters](https://www.sciencedirect.com/science/article/pii/S0893608013002517)
+ - **Proposta**: Method for correcting and combining forecasting models
+ - **Fonte de dados**: Nasdaq
+ - **Técnicas**: Neural Network, ARIMA
+ - **Publicado em**: 2013
+
+---
+
+**Removido**
+- **Artigo**: [A hybrid ARIMA and support vector machines model in stock price forecasting](https://www.sciencedirect.com/science/article/pii/S0305048304001082)
+ - **Proposta**: modelagem híbrida entre arima e SVM
+ - **Técnicas**:  ARIMA, SVM
+
+---
+
+**Removido**
+- **Artigo**: [Improving forecasting accuracy of time series data using a new ARIMA-ANN hybrid method and empirical mode decomposition](https://www.sciencedirect.com/science/article/pii/S0925231219309178)
+ - **Proposta**: modelagem híbrida entre arima e rna
+ - **Técnicas**:  ARIMA, RNN
+
+---
+
+**Removido**
+- **Artigo**: [Generalized entropy plane based on large deviations theory for financial time series](https://www.sciencedirect.com/science/article/abs/pii/S0096300319307118?via%3Dihub)
+ - **Proposta**: combinacao de características desses dois métodos populares e propomos um modelo de plano de entropia generalizado com base na teoria dos grandes desvios
+ - **Fonte de dados**: 
+ - **Técnicas**:  
+ - **Publicado em**: 
+
+---
+---
+
+### Comparatives
+
+**Artigo**: [NSE Stock Market Prediction Using Deep](https://www.sciencedirect.com/science/article/pii/S1877050918307828)
+ - **Proposta**: Faz um comparativo entre ARIMA e LSTM (muito parecido com o que quero !)
+ - **Técnicas**:  Multilayer Perceptron (MLP), Recurrent Neural Networks  (RNN),  Long  Short-Term  Memory  (LSTM)  and  Convolutional  Neural  Network  (CNN)  f
+
+---
+
+- **Artigo**: [A Comparative Analysis of Forecasting Financial
+Time Series Using ARIMA, LSTM, and BiLSTM](https://arxiv.org/pdf/1911.09512.pdf)
+ - **Proposta**: Faz um comparativo entre ARIMA e LSTM (muito parecido com o que quero !)
+ - **Fonte de dados**: 
+ - **Técnicas**:  ARIMA, LSTM
+ - **Publicado em**: 2019
+
+---
 
 ##### gostei
 - **Artigo**: [Forecasting Foreign Exchange Rate: A Multivariate Comparative Analysis between Traditional Econometric, Contemporary Machine Learning & Deep Learning Techniques
@@ -399,14 +436,30 @@ técnias Econométrica Tradicionais, Técnicas de Aprendizagem de máquina e Apr
  - **Publicado em**: 2020
 
 
-- **Artigo**: [A Comparative Analysis of Forecasting Financial
-Time Series Using ARIMA, LSTM, and BiLSTM](https://arxiv.org/pdf/1911.09512.pdf)
- - **Proposta**: Faz um comparativo entre ARIMA e LSTM (muito parecido com o que quero !)
+---
+
+- **Artigo**: [A Multivariate Comparative Analysis between
+Traditional Econometric, Contemporary Machine
+Learning & Deep Learning Techniques](https://arxiv.org/pdf/2002.10247.pdf)
+ - **Proposta**: Uma Análise Comparativa Multivariada entre
+técnias Econométrica Tradicionais, Técnicas de Aprendizagem de máquina e Aprendizagem Profunda
  - **Fonte de dados**: 
- - **Técnicas**:  ARIMA, LSTM
+ - **Técnicas**:  LSTM
+ - **Publicado em**: 2020
+
+---
+
+- **Artigo**: [Machine Learning vs Statistical Methods for Time Series Forecasting: Size Matters
+](https://arxiv.org/abs/1909.13316)
+ - **Proposta**: comparasion Machine Learning vs Statistical Methods
+ - **Fonte de dados**: 
+ - **Técnicas**:  várias técnicas
  - **Publicado em**: 2019
 
+---
+---
 
+### SVM
  - **Artigo**: [Financial Forecasting Using Support Vector Machines
 ](https://link.springer.com/article/10.1007/s005210170010)
  - **Proposta**: Analysis of the experimental results demonstrates that it is advantageous to apply SVMs to forecast the financial time series.
@@ -414,7 +467,7 @@ Time Series Using ARIMA, LSTM, and BiLSTM](https://arxiv.org/pdf/1911.09512.pdf)
  - **Técnicas**:  SVM
  - **Publicado em**: 2001
 
-
+---
 ---
 
 ### Financeiro
