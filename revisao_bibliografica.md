@@ -108,7 +108,7 @@ simple data relationship with simple models
 
 ### search: `stock price prediction`
 
-**bem legal**
+**gostei**
 - **Artigo**: [Enhancing Stock Price Trend Prediction via a Time-Sensitive Data Augmentation Method](https://www.hindawi.com/journals/complexity/2020/6737951/)
  - **Proposta**: Data Augmentation Method
  - **Fonte de dados**: 
