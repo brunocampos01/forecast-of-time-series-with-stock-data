@@ -31,7 +31,7 @@ Tem servido como referência até os dias atuais, constituído de 8 etapas que d
 de dados, pré-processamento dos dados, treinamento e validação, topologia, critérios de
 avaliação de desempenho, parâmetros do algoritmo backpropagation e implementação.
 
-- **Artigo"": [Designing a neural network for forecasting financial and economic time series](https://www.sciencedirect.com/science/article/pii/0925231295000399)
+- **Artigo**: [Designing a neural network for forecasting financial and economic time series](https://www.sciencedirect.com/science/article/pii/0925231295000399)
 
 Kaastra
 
