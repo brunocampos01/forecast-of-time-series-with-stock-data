@@ -42,6 +42,11 @@ Kaastra
 ---
 
 ## Papers
+- **Artigo**: [ARIMA: An Applied Time Series Forecasting Model for the Bovespa Stock Index](https://www.researchgate.net/publication/275214476_ARIMA_An_Applied_Time_Series_Forecasting_Model_for_the_Bovespa_Stock_Index
+)
+ - **Proposta**:  
+ - **Fonte de dados**: Bovespa
+ - **Técnicas**: ARIMA
 
 **Removido**
 - **Artigo**: [Financial time series prediction using distributed machine
