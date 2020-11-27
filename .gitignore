@@ -126,6 +126,7 @@ dmypy.json
 # IDEs and editors
 .vscode/*
 .idea/*
+logs/*
 
 # data
 download_data/mini-indice_m5.tar.xz
