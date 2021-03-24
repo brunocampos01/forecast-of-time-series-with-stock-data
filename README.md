@@ -24,32 +24,32 @@ Comparar as principais técnicas de predição para ST no contexto de mercado fi
 ### Resultados das Modelagens
 
 #### AR
-<img src='reports/images/ar_model.png' align="center" height=auto width=60%>
+<img src='reports/images/ar_model.png' align="center" height=auto width=80%>
 
 <br/>
 
 #### ARIMA
-<img src='reports/images/arima_model.png' align="center" height=auto width=60%>
+<img src='reports/images/arima_model.png' align="center" height=auto width=80%>
 
 <br/>
 
 #### SARIMA
-<img src='reports/images/sarima_model.png' align="center" height=auto width=60%>
+<img src='reports/images/sarima_model.png' align="center" height=auto width=80%>
 
 <br/>
 
 #### Floresta Aleatória
-<img src='reports/images/floresta_aleatoria.png' align="center" height=auto width=60%>
+<img src='reports/images/floresta_aleatoria.png' align="center" height=auto width=80%>
 
 <br/>
 
 #### SVR
-<img src='reports/images/svr_model.png' align="center" height=auto width=60%>
+<img src='reports/images/svr_model.png' align="center" height=auto width=80%>
 
 <br/>
 
 #### LSTM
-<img src='reports/images/lstm_model.png' align="center" height=auto width=60%>
+<img src='reports/images/lstm_model.png' align="center" height=auto width=80%>
 
 <br/>
 
