@@ -1,7 +1,7 @@
 # Trabalho de Conclusão de Curso
-![Python 3.6](https://img.shields.io/badge/Python-3-blue.svg)
+![Python 3.6](https://img.shields.io/badge/Python-3-green.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
-![seguranca](https://img.shields.io/badge/UFSC-TCC-blue.svg)
+![seguranca](https://img.shields.io/badge/UFSC-TCC-green.svg)
 
 
 ## Título
