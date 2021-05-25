@@ -7,6 +7,9 @@
 ## Título
 Análise Comparativa de Ténicas para a Previsão de Séries Temporais no Contexto de Mercados Financeiros
 
+## Publicação
+[Biblioteca UFSC](https://repositorio.ufsc.br/handle/123456789/223843)
+
 ## Objetivos
 
 ### Geral
