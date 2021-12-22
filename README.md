@@ -1,16 +1,16 @@
-# Trabalho de Conclusão de Curso
+# Análise Comparativa de Técnicas para a Previsão de Séries Temporais no Contexto de Mercados Financeiros
 ![Python 3.6](https://img.shields.io/badge/Python-3-blue.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
-![seguranca](https://img.shields.io/badge/UFSC-TCC-blue.svg)
+![UFSC](https://img.shields.io/badge/UFSC-TCC-blue.svg)
 
+
+<img src="reports/images/lstm_model.png" align="right" height=auto width=50%/>
 
 ## Título
 Análise Comparativa de Técnicas para a Previsão de Séries Temporais no Contexto de Mercados Financeiros
 
 ## Publicação
 [Biblioteca UFSC](https://repositorio.ufsc.br/handle/123456789/223843)
-
-## Objetivos
 
 ### Geral
 Comparar as principais técnicas de predição para ST no contexto de mercado financeiro.
@@ -53,6 +53,19 @@ Comparar as principais técnicas de predição para ST no contexto de mercado fi
 
 #### LSTM
 <img src='reports/images/lstm_model.png' align="center" height=auto width=80%>
+
+<br/>
+
+## Requisitos
+| Requisite      | Version  |
+|----------------|----------|
+| Python         | 3.9.7    |
+| Pip            | 21.2.4   |
+
+#### Instalação das Bibliotecas
+```
+pip install --require-hashes -r requirements.txt
+```
 
 <br/>
 
