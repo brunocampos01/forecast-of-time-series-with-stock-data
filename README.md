@@ -9,6 +9,9 @@
 ## Título
 Análise Comparativa de Técnicas para a Previsão de Séries Temporais no Contexto de Mercados Financeiros
 
+## Apresentação
+[2020/2](https://github.com/brunocampos01/forecast-of-time-series-with-stock-data/blob/master/reports/tcc-apresentacao.pdf)
+
 ## Publicação
 [Biblioteca UFSC](https://repositorio.ufsc.br/handle/123456789/223843)
 
