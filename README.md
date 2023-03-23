@@ -60,13 +60,13 @@ Compare the main prediction techniques for ST in the financial market context.
 
 <br/>
 
-## Requisitos
+## Requirements
 | Requisite      | Version  |
 |----------------|----------|
 | Python         | 3.9.7    |
 | Pip            | 21.2.4   |
 
-#### Instalação das Bibliotecas
+#### How to Install Libraries
 ```
 pip install --require-hashes -r requirements.txt
 ```
