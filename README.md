@@ -1,4 +1,4 @@
-# Análise Comparativa de Técnicas para a Previsão de Séries Temporais no Contexto de Mercados Financeiros
+# Comparative Analysis of Techniques for Forecasting Time Series in Financial Markets
 ![Python 3.6](https://img.shields.io/badge/Python-3-blue.svg)
 ![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 ![UFSC](https://img.shields.io/badge/UFSC-TCC-blue.svg)
@@ -6,28 +6,29 @@
 
 <img src="reports/images/lstm_model.png" align="right" height=auto width=50%/>
 
-## Título
-Análise Comparativa de Técnicas para a Previsão de Séries Temporais no Contexto de Mercados Financeiros
+## Title
+- En: Comparative Analysis of Techniques for Forecasting Time Series in Financial Markets
+- Pt-br: Análise Comparativa de Técnicas para a Previsão de Séries Temporais no Contexto de Mercados Financeiros
 
-## Apresentação
+## Presentation
 [2020/2](https://github.com/brunocampos01/forecast-of-time-series-with-stock-data/blob/master/reports/tcc-apresentacao.pdf)
 
-## Publicação
+## Publication
 [Biblioteca UFSC](https://repositorio.ufsc.br/handle/123456789/223843)
 
-### Geral
-Comparar as principais técnicas de predição para ST no contexto de mercado financeiro.
+### General Goals
+Compare the main prediction techniques for ST in the financial market context.
 
-### Específicos
-1. Fazer uma análise qualitativa sobre o estado da arte sobre na predição de ST e teorias de previsão nos mercados financeiros;  
-2. Definir os processos de obtenção e preparação dos dados;
-3. Definir os algoritmos mais adequados a serem implementados visando as áreas econométrica, AM e aprendizado profundo;
-4. Criar modelagens computacionais para as técnicas escolhidas no item anterior;
-5. Treinar os modelos escolhidos;
-6. Fazer uma análise comparativa dos resultados dos preditores; 
-7. Desenvolver um repositório e disponibilizar na internet, de maneira a tornar todos os resultados desta pesquisa amplamente reproduzíveis.
+### Specific Goals
+1. Conduct a qualitative analysis of the state of the art on TS (time series) prediction and theories in financial markets;
+2. Define data collection and preparation processes;
+3. Define the most appropriate algorithms to be implemented targeting the econometric, Machine Learning, and Deep Learning areas;
+4. Create computational models for the techniques chosen in the previous item;
+5. Train the chosen models;
+6. Perform a comparative analysis of the results of the predictors;
+7. Develop a repository and make it available on the internet, to make all the results of this research widely reproducible.
 
-### Resultados das Modelagens
+### Some Results
 
 #### AR
 <img src='reports/images/ar_model.png' align="center" height=auto width=80%>
@@ -72,7 +73,7 @@ pip install --require-hashes -r requirements.txt
 
 <br/>
 
-## Referências
+## References
 Patel, J., Shah, S., Thakkar, P., & Kotecha, K. (2015) Predicting stock and stock price index movement using trend deterministic data preparation and machine learn- ing techniques. Expert Systems with Applications, 42, 259-268. Disponível em: https://www.sciencedirect.com/science/article/pii/S0957417414004473
 
 Sampaio e Mancini, 2007.  Estudos De Revisão Sistemática: Um Guia Para Síntese Criteriosa Da Evidência Científica. Universidade Federal de Minas Gerais, Belo Horizonte, MG. Disponível em : https://www.scielo.br/pdf/rbfis/v11n1/12.pdf  
