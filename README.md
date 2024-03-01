@@ -45,7 +45,7 @@ Compare the main prediction techniques for ST in the financial market context.
 
 <br/>
 
-#### Floresta Aleatória
+#### Random Forest
 <img src='reports/images/floresta_aleatoria.png' align="center" height=auto width=80%>
 
 <br/>
