@@ -493,15 +493,6 @@ kiwisolver==1.3.2 \
     # via
     #   -r requirements.in
     #   matplotlib
-libclang==12.0.0 \
-    --hash=sha256:275126823c60ab5c9fae6a433cbb6a47e4d1b5f668a985fbd6065553dbc7efcc \
-    --hash=sha256:3b0585dbdc3f3b372340f1efe7c28bf4a5b658d2fb8dc0544a7ef0d2bef40618 \
-    --hash=sha256:6df2f8a2cb75181e3c1e99e5dfca2fd44bb7f84ed12d5112541e03c10384f306 \
-    --hash=sha256:b828cb52cf3f02fb0e0a8fddb9dece7e2ed006f8b4d54ee811cef0471d414367 \
-    --hash=sha256:fadad3bf5fbab50c996eb151adc58c3a7cbee45a9135060c416be7b640372112
-    # via
-    #   -r requirements.in
-    #   tensorflow
 markdown==3.3.6 \
     --hash=sha256:76df8ae32294ec39dcf89340382882dfa12975f87f45c3ed1ecdb1e8cefc7006 \
     --hash=sha256:9923332318f843411e9932237530df53162e29dc7a4e2b91e35764583c46c9a3
