@@ -97,7 +97,7 @@ def show_result_model(
     y_forecast,
     model_name: str,
     dict_results: Dict,
-) -> None:
+) -> pd.core.frame.DataFrame:
     future_forecast = pd.DataFrame(y_forecast,
                                    index=df_test.index,
                                    columns=['previsao'])
@@ -112,3 +112,5 @@ def show_result_model(
     plt.xlabel("Tempo (dias)", fontsize=20)
     plt.ylabel("Preço (R$)", fontsize=20)
     plt.title(f'MAPE = {mape:.2f} % | MSE = {mse:.2f}', fontsize=25)
+
+    return future_forecast
